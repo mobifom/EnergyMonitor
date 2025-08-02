@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		681BD39F2E3596C2007D31C1 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 681BD39E2E3596C2007D31C1 /* Localizable.xcstrings */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		681BD3792E359470007D31C1 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		681BD3692E35946E007D31C1 /* EnergyMonitor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EnergyMonitor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		681BD3782E359470007D31C1 /* EnergyMonitorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EnergyMonitorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		681BD3822E359470007D31C1 /* EnergyMonitorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EnergyMonitorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		681BD39E2E3596C2007D31C1 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +80,7 @@
 		681BD3602E35946E007D31C1 = {
 			isa = PBXGroup;
 			children = (
+				681BD39E2E3596C2007D31C1 /* Localizable.xcstrings */,
 				681BD36B2E35946E007D31C1 /* EnergyMonitor */,
 				681BD37B2E359470007D31C1 /* EnergyMonitorTests */,
 				681BD3852E359470007D31C1 /* EnergyMonitorUITests */,
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				681BD39F2E3596C2007D31C1 /* Localizable.xcstrings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

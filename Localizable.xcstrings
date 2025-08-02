@@ -1,0 +1,251 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "welcome": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Welcome" } },
+        "ar": { "stringUnit": { "value": "مرحباً" } }
+      }
+    },
+    "current_weather": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Current Weather" } },
+        "ar": { "stringUnit": { "value": "الطقس الحالي" } }
+      }
+    },
+    "temperature": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Temperature" } },
+        "ar": { "stringUnit": { "value": "درجة الحرارة" } }
+      }
+    },
+    "humidity": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Humidity" } },
+        "ar": { "stringUnit": { "value": "الرطوبة" } }
+      }
+    },
+    "ac_recommendation": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "AC Recommendation" } },
+        "ar": { "stringUnit": { "value": "توصية المكيف" } }
+      }
+    },
+    "daily_tip": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Daily Tip" } },
+        "ar": { "stringUnit": { "value": "نصيحة اليوم" } }
+      }
+    },
+    "quick_stats": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Quick Stats" } },
+        "ar": { "stringUnit": { "value": "إحصائيات سريعة" } }
+      }
+    },
+    "this_month": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "This Month" } },
+        "ar": { "stringUnit": { "value": "هذا الشهر" } }
+      }
+    },
+    "last_reading": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Last Reading" } },
+        "ar": { "stringUnit": { "value": "آخر قراءة" } }
+      }
+    },
+    "home": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Home" } },
+        "ar": { "stringUnit": { "value": "الرئيسية" } }
+      }
+    },
+    "usage": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Usage" } },
+        "ar": { "stringUnit": { "value": "الاستهلاك" } }
+      }
+    },
+    "scan": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Scan" } },
+        "ar": { "stringUnit": { "value": "مسح" } }
+      }
+    },
+    "tips": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Tips" } },
+        "ar": { "stringUnit": { "value": "نصائح" } }
+      }
+    },
+    "settings": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Settings" } },
+        "ar": { "stringUnit": { "value": "الإعدادات" } }
+      }
+    },
+    "add_reading": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Add Reading" } },
+        "ar": { "stringUnit": { "value": "إضافة قراءة" } }
+      }
+    },
+    "meter_reading": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Meter Reading" } },
+        "ar": { "stringUnit": { "value": "قراءة العداد" } }
+      }
+    },
+    "consumption_chart": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Consumption Chart" } },
+        "ar": { "stringUnit": { "value": "مخطط الاستهلاك" } }
+      }
+    },
+    "bill_estimate": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Bill Estimate" } },
+        "ar": { "stringUnit": { "value": "تقدير الفاتورة" } }
+      }
+    },
+    "export_data": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Export Data" } },
+        "ar": { "stringUnit": { "value": "تصدير البيانات" } }
+      }
+    },
+    "scan_meter": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Scan Meter" } },
+        "ar": { "stringUnit": { "value": "مسح العداد" } }
+      }
+    },
+    "capture_image": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Capture Image" } },
+        "ar": { "stringUnit": { "value": "التقاط صورة" } }
+      }
+    },
+    "processing": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Processing..." } },
+        "ar": { "stringUnit": { "value": "جاري المعالجة..." } }
+      }
+    },
+    "reading_detected": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Reading Detected" } },
+        "ar": { "stringUnit": { "value": "تم رصد القراءة" } }
+      }
+    },
+    "energy_tips": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Energy Tips" } },
+        "ar": { "stringUnit": { "value": "نصائح الطاقة" } }
+      }
+    },
+    "cooling_tips": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Cooling Tips" } },
+        "ar": { "stringUnit": { "value": "نصائح التبريد" } }
+      }
+    },
+    "lighting_tips": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Lighting Tips" } },
+        "ar": { "stringUnit": { "value": "نصائح الإضاءة" } }
+      }
+    },
+    "appliance_tips": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Appliance Tips" } },
+        "ar": { "stringUnit": { "value": "نصائح الأجهزة" } }
+      }
+    },
+    "language": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Language" } },
+        "ar": { "stringUnit": { "value": "اللغة" } }
+      }
+    },
+    "region": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Region" } },
+        "ar": { "stringUnit": { "value": "المنطقة" } }
+      }
+    },
+    "currency": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Currency" } },
+        "ar": { "stringUnit": { "value": "العملة" } }
+      }
+    },
+    "notifications": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Notifications" } },
+        "ar": { "stringUnit": { "value": "الإشعارات" } }
+      }
+    },
+    "privacy": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Privacy" } },
+        "ar": { "stringUnit": { "value": "الخصوصية" } }
+      }
+    },
+    "about": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "About" } },
+        "ar": { "stringUnit": { "value": "حول التطبيق" } }
+      }
+    },
+    "save": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Save" } },
+        "ar": { "stringUnit": { "value": "حفظ" } }
+      }
+    },
+    "cancel": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Cancel" } },
+        "ar": { "stringUnit": { "value": "إلغاء" } }
+      }
+    },
+    "delete": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Delete" } },
+        "ar": { "stringUnit": { "value": "حذف" } }
+      }
+    },
+    "edit": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Edit" } },
+        "ar": { "stringUnit": { "value": "تعديل" } }
+      }
+    },
+    "loading": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Loading..." } },
+        "ar": { "stringUnit": { "value": "جاري التحميل..." } }
+      }
+    },
+    "error": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Error" } },
+        "ar": { "stringUnit": { "value": "خطأ" } }
+      }
+    },
+    "success": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Success" } },
+        "ar": { "stringUnit": { "value": "نجح" } }
+      }
+    },
+    "retry": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Retry" } },
+        "ar": { "stringUnit": { "value": "إعادة المحاولة" } }
+      }
+    }
+  }
+}
